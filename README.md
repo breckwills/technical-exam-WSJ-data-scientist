@@ -2,7 +2,7 @@
 
 ## Scenario
 
-  A hypothetical investing blog wants to improve their paywall performance. Currently the paywall monitors some traffic variables to trigger a paywall for users, but they would like to improve the targeting with a predictive model. The goal of this exercise is to examine the propensity dataset provided and create a model that will be able to predict an user's likelihood of subscribing. The final result should be able to inform a new paywall strategy for this blog.
+  A hypothetical investing blog wants to improve their paywall performance. Currently the paywall monitors some traffic variables to trigger a paywall for users, but they would like to improve the targeting with a predictive model. The goal of this exercise is to examine the propensity dataset provided and create a model that will be able to predict an user's likelihood of subscribing; the paywall will be triggered based off these predicitons. The final result should be able to inform a new paywall strategy for this blog.
 
 **Notes: 
 Each row in `propensity_data.csv` represents a single page view.
