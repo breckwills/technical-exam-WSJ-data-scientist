@@ -6,6 +6,7 @@
 
 **Notes: 
 Each row in `propensity_data.csv` represents a single page view.
+**
 Conversion rates on specific days or times can be highly correlated for all visitors due the content being published.
 **
 
@@ -18,10 +19,10 @@ Conversion rates on specific days or times can be highly correlated for all visi
 | time | date and time of user's visit
 | daysSinceFirstSeen | number of days since first article visit
 | section | section of the article read on visit
-| visitNum | visit count of the article read
-| pageNum | page count of the article read
+| visitNum | visit count of the article read (e.g. if 2, this is their second visit in last 28 days)
+| pageNum | page count of the article read (e.g. if 2, this is their second web page visited in their current visit)
 | registered | binary of user's logged in status (registration is free and not a subscription)
-| edu | binary of whether a user is a college student or not
+| edu | binary of whether a user is a college student
 | mobile | binary of whether a user is on a mobile phone
 | mac | binary of whether a user is on an Apple device
 | converted | binary of whether user subscribed after page view
@@ -33,7 +34,7 @@ Conversion rates on specific days or times can be highly correlated for all visi
   
   2. How many article views does the blog currently have locked?
   
-  3. Choose 3 variables and show how does conversion rate differs by each one. Which is the strongest indicator of a conversion?
+  3. Choose 3 variables and show how the conversion rate differs by each one. Which is the strongest indicator of a conversion?
   
   5. Build a model to score a user's likelihood of subscribing.
   
