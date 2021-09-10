@@ -43,4 +43,6 @@ Assume a one-to-one relationship between page views and conversions (i.e. a conv
         
         b. What measures would you use to assess the performance of this model?
         
-  4. What recommendations, if any, would you make to the publisher based on your findings?
+  4. What recommendations, if any, would you make to the publisher based on your findings?    
+        
+  5. Create two visualizations that back up your recommendations.
