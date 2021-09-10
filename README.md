@@ -1,6 +1,6 @@
   Welcome to the WSJ Data Science technical test for the membership team. This exam is designed to give you an opportunity to demonstrate your ability to work with structured datasets. You should not spend more than an hour working on it. Focus on clarity over completeness. If you don't have time to answer a certain question, describe how you would approach solving it instead.
 
-  Please submit answers in either R or Python (Jupyter notebooks preferred). Email zipped files to john.wiley@dowjones.com.
+  Please submit answers in either R or Python (Jupyter notebooks preferred). Email zipped files to breck.wills@dowjones.com.
 
 ## Scenario
 
